@@ -1,0 +1,1 @@
+git remote set-url origin https://username:personal-access-token@github.com/username/repository.git
